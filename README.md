@@ -7,5 +7,8 @@
 - useEffect()
 - useRef()
 - useMemo()
+- useCallback()
+- React.memo()
+- Custom Hooks
 
 "# react-hooks-revision-2024"

@@ -3,6 +3,9 @@ import UseStateComp from "./useState/UseStateComp";
 import UseEffectComp from "./useEffect/UseEffectComp";
 import UseRefComp from "./useRef/UseRefComp";
 import UseMemoComp from "./useMemo/UseMemoComp";
+import UseCallbackComp from "./useCallback/UseCallbackComp";
+import CustomHookComp from "./customHook/CustomHookComp";
+
 function App() {
   return (
     <div>
@@ -11,6 +14,8 @@ function App() {
       <UseEffectComp />
       <UseRefComp />
       <UseMemoComp />
+      <UseCallbackComp />
+      <CustomHookComp />
     </div>
   );
 }
