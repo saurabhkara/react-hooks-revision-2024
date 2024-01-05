@@ -4,5 +4,8 @@
 - Why Hooks
 - Stateful function
 - useState()
--
-"# react-hooks-revision-2024" 
+- useEffect()
+- useRef()
+- useMemo()
+
+"# react-hooks-revision-2024"
